@@ -1,0 +1,9 @@
+============== REPORT ===============
+Num samples: 200
+Num attributes: 30698
+Num clusters: 200
+
+Silhouette coef.: 0.01666951900842486
+Elapsed time: N/A
+Num iterations: N/A
+====================================
